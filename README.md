@@ -9,7 +9,7 @@ Included with BIN Checker, I use Stripe API as 1 REQ.
 - You need proxies from [Webshare](https://www.webshare.io/)
 - Fill your bot token on [line 9.](https://github.com/rizzyneck/switchblade-cc/blob/4e09023a1f4d30a834c0e82848ba891b9df49e8b/switchblade.php#L9)  
 - Fill your proxies on [line 223.](https://github.com/rizzyneck/switchblade-cc/blob/4e09023a1f4d30a834c0e82848ba891b9df49e8b/switchblade.php#L223)
-- Run [switchblade.php](https://github.com/rizzyneck/switchblade-cc/blob/main/switchblade.php) with the webhook (check the first line).  
+- Run [switchblade.php](https://github.com/CjTupac1977/switchblade-cc/blob/main/switchblade.php)) with the webhook (check the first line).  
 - Use **!cmds or /cmds** to check commands list.  
 
 ## Info
